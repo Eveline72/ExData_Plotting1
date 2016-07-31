@@ -23,3 +23,5 @@ plot(dt, Glob_act_pow, type = "l", ylab = "Global Active Power (kilowatts)", xla
 ## Close off the call to png
 
 dev.off()
+
+## NB the day names in my plot are Dutch, because my computer has Dutch settings
