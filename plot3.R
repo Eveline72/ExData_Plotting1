@@ -28,3 +28,5 @@ legend("topright", c("Sub_metering_1","Sub_metering_2","Sub_metering_3"), col = 
 ## Close off the call to png
 
 dev.off()
+
+## NB the day names in my plot are Dutch, because my computer has Dutch settings
