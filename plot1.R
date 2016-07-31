@@ -22,3 +22,4 @@ hist(Glob_act_pow, col = "red", main = "Global Active Power", xlab = "Global Act
 ## Close off the call to png
 
 dev.off()
+
