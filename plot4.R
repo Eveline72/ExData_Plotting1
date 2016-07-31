@@ -37,3 +37,5 @@ plot(dt,Glob_react_pow, type = "l", xlab = "datetime", ylab = "Global_reactive_p
 ## Close off the call to png
 
 dev.off()
+
+## NB the day names in my plot are Dutch, because my computer has Dutch settings
